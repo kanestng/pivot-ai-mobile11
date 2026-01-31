@@ -1,0 +1,15 @@
+{
+  "short_name": "PivotAI",
+  "name": "PivotAI Explorer",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/layout-dashboard.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#f8fafc"
+}

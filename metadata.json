@@ -1,0 +1,5 @@
+{
+  "name": "PivotAI Explorer",
+  "description": "Upload CSV datasets to analyze with dynamic pivot tables, interactive charts, and an AI-powered data analyst.",
+  "requestFramePermissions": []
+}
